@@ -1,17 +1,17 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	var i int
-	i = 3
-	switch i {
-	case 1:
-		fmt.Println("one")
-	case 2:
-		fmt.Println("two")
-	case 3:
-		fmt.Println("three")
-	}
+// func main() {
+// 	var i int
+// 	i = 3
+// 	switch i {
+// 	case 1:
+// 		fmt.Println("one")
+// 	case 2:
+// 		fmt.Println("two")
+// 	case 3:
+// 		fmt.Println("three")
+// 	}
 
-}
+// }

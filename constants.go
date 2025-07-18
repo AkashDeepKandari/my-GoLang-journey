@@ -1,13 +1,13 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-const (
-	port = 5000
-	host = "local"
-)
+// const (
+// 	port = 5000
+// 	host = "local"
+// )
 
-func main() {
-	fmt.Println(port)
-	fmt.Print(host)
-}
+// func main() {
+// 	fmt.Println(port)
+// 	fmt.Print(host)
+// }

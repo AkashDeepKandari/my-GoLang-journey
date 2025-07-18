@@ -1,3 +1,4 @@
 # my-GoLang-journey
  A personal repository to document and share my journey of learning Golang (Go).
- <br>Added GoLang Basic Code
+ <br>Day 1-Added GoLang Basic Code
+<br>Day 2 -Added GoLang Basic Code

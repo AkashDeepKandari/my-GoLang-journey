@@ -8,5 +8,4 @@ func main() {
 	//fmt.Scanln(&str)
 	fmt.Scanf("%s", &str)
 	fmt.Printf("Hello %s", str)
-
 }
